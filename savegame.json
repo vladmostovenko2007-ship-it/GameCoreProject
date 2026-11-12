@@ -1,0 +1,24 @@
+{
+  "Player1": {
+    "Profile": {
+      "Name": "Diluc (Mock) (Pyro)",
+      "BaseHealth": 150,
+      "BaseDamage": 40,
+      "Armor": 20,
+      "Resist": 0.2,
+      "Speed": 200
+    },
+    "CurrentHealth": 150
+  },
+  "Player2": {
+    "Profile": {
+      "Name": "Amber (Mock) (Pyro)",
+      "BaseHealth": 100,
+      "BaseDamage": 25,
+      "Armor": 10,
+      "Resist": 0.1,
+      "Speed": 100
+    },
+    "CurrentHealth": 19
+  }
+}
